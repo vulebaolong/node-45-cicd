@@ -1,6 +1,7 @@
 // Bước 1: npm init
 // Bước 2: npm i express
 
+
 // Reload server
 // Cách 1: dùng thư viện nodemon
 // Cách 2: dùng --watch của node hỗ trợ
