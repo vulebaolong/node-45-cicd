@@ -18,8 +18,6 @@ import { createHandler } from "graphql-http/lib/use/express";
 import { ruruHTML } from "ruru/server";
 
 
-
-
 const app = express();
 const server = createServer(app);
 
