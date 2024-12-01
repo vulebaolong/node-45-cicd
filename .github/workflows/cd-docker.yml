@@ -15,7 +15,7 @@ jobs:
 
       steps:
          - name: Xoá file .env đã cũ
-           run: sudo rm -f.env
+           run: sudo rm -f .env
 
          - name: tạo file .env mới
            run: |
